@@ -7,14 +7,14 @@ Here provides the files that can run Leap Motion SDK on macOS 11 with Python 3.7
 
 https://github.com/BlackLight/leap-sdk-python3
 
-This project offers the simple automated way for users to build for their own module.
+This project from **BlackLight** offers the simple automated way for users to build for their own module.
 
 Here is my experience of building the Leap Motion Python3 module on Mac.
 
 Tools needed
-- swig 2.0.9
+- swig 2.0.9  
 https://sourceforge.net/projects/swig/files/swig/
-- XCode 9.4.1 along with its command-line tools (macOS 10.14, not available for macOS 11)
+- XCode 9.4.1 along with its command-line tools (macOS 10.14, not available for macOS 11)  
 https://xcodereleases.com
 
 Copy Leap.h, LeapMath.h, Leap.i, and libLeap.dylib into one folder.
